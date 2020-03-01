@@ -1,0 +1,1018 @@
+# Translation of Themes - VW Fitness Gym in Russian
+# This file is distributed under the same license as the Themes - VW Fitness Gym package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-18 07:06:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Fitness Gym\n"
+
+#. Description of the theme
+msgid "VW fitness gym is something special when it comes to the WordPress themes in this area and since it came in the market, this free WP theme has been doing rounds for the fitness enthusiasts or the people who want to venture in this area of business. It is not just good for one aspect of body fitness but is a fine option for the personal trainers, yoga and fitness enthusiasts. Armed with the exclusive features like Bootstrap framework, CTA, retina ready, responsiveness and multipurpose nature, personalization and customization options, it is a fit choice for health experts, boot camps, weight loss, clubs, physiotherapy, wellness, workout, lifestyle, aerobics, boxing, sports, cross fit, spa, massage center, cardio, meditation and health advisors. VW fitness gym is not only SEO friendly but also Gutenberg ready and this provides it an upper edge in the market. It is in great demand since its inception especially for the fitness and aerobic centers or the weight loss centers and in case one is interested to open physiotherapy health consultancy, it is a good option without any doubt. It is not only stunning but animated as well apart from being translation ready, modern and luxurious making it a nice option for health consultants. Demo: https://www.vwthemes.net/vw-fitness-gym-pro/"
+msgstr "VW fitness gym является чем-то особенным, когда речь идет о темах WordPress в этой области, и с тех пор, как она появилась на рынке, эта бесплатная тема WP будет полезной для энтузиастов фитнеса или людей, которые хотят заниматься в этой области бизнеса. Она не только хорошо для какого-то одного аспекта фитнеса, но является прекрасным вариантом для личных тренеров, любителей йоги и фитнеса. Вооружившись такими эксклюзивными функциями, как среда Bootstrap, CTA, готовность к ретине, адаптивность и многоцелевой характер, возможности персонализации и настройки, она подходит для экспертов в области здравоохранения, тренировочных лагерей, похудения, клубов физиотерапии, хорошего самочувствия, тренировок, образа жизни, аэробики, бокс, спорт, кроссфит, спа, массажный центр, кардио, консультантов медитации и здоровья. VW fitness gym не только оптимизирована для SEO, но и готова для Гутенберга, что дает ей преимущество на рынке. Она пользуется большим спросом с момента ее создания, особенно для фитнеса и центров аэробики или центров для похудения, и, если кто-то заинтересован в том, чтобы открыть консультацию по физиотерапии для здоровья, это, без сомнения лучший вариант. Она не только ошеломляющая, но и анимирована, кроме того, что она готова к переводу, современна и роскошна, что делает ее отличным вариантом для консультантов по здоровью. Демо: https://www.vwthemes.net/vw-fitness-gym-pro/"
+
+#. Theme Name of the theme
+msgid "VW Fitness Gym"
+msgstr "VW Fitness Gym"
+
+#: footer.php:31
+msgid "&copy; Copyright 2019 - Fitness "
+msgstr "&copy; Авторское право 2019 - Fitness "
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: inc/social-widgets/social-icon.php:105
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/social-widgets/social-icon.php:101
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/social-widgets/social-icon.php:97
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/social-widgets/social-icon.php:93
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/social-widgets/social-icon.php:89
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/social-widgets/social-icon.php:85
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/social-widgets/social-icon.php:81
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/social-widgets/social-icon.php:77
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/social-widgets/social-icon.php:73
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела социальных сетей"
+
+#: inc/social-widgets/social-icon.php:12
+msgid "Social Icon"
+msgstr "Иконка соц. сети"
+
+#: inc/typography/customize/control-typography.php:370
+msgid "Oblique"
+msgstr "Наклоненный"
+
+#: inc/typography/customize/control-typography.php:369
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/typography/customize/control-typography.php:367
+msgid "No Fonts Style"
+msgstr "Без стиля шрифта"
+
+#: inc/typography/customize/control-typography.php:353
+msgid "Ultra Bold"
+msgstr "Ультра толстый"
+
+#: inc/typography/customize/control-typography.php:352
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/typography/customize/control-typography.php:351
+msgid "Medium"
+msgstr "Средний"
+
+#: inc/typography/customize/control-typography.php:350
+#: inc/typography/customize/control-typography.php:368
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/typography/customize/control-typography.php:349
+msgid "Light"
+msgstr "Светлая"
+
+#: inc/typography/customize/control-typography.php:348
+msgid "Thin"
+msgstr "Тонкий"
+
+#: inc/typography/customize/control-typography.php:347
+msgid "No Fonts weight"
+msgstr "Без толщины шрифта"
+
+#: inc/typography/customize/control-typography.php:333
+msgid "Yanone Kaffeesatz"
+msgstr "Yanone Kaffeesatz"
+
+#: inc/typography/customize/control-typography.php:332
+msgid "Volkhov"
+msgstr "Volkhov"
+
+#: inc/typography/customize/control-typography.php:331
+msgid "Vollkorn"
+msgstr "Vollkorn"
+
+#: inc/typography/customize/control-typography.php:330
+msgid "Vampiro One"
+msgstr "Vampiro One"
+
+#: inc/typography/customize/control-typography.php:329
+msgid "Varela Round"
+msgstr "Varela Round"
+
+#: inc/typography/customize/control-typography.php:328
+msgid "VT323"
+msgstr "VT323"
+
+#: inc/typography/customize/control-typography.php:327
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: inc/typography/customize/control-typography.php:326
+msgid "Tangerine"
+msgstr "Tangerine"
+
+#: inc/typography/customize/control-typography.php:325
+msgid "Shrikhand"
+msgstr "Shrikhand"
+
+#: inc/typography/customize/control-typography.php:324
+msgid "Sacramento"
+msgstr "Sacramento"
+
+#: inc/typography/customize/control-typography.php:323
+msgid "Shadows Into Light"
+msgstr "Shadows Into Light"
+
+#: inc/typography/customize/control-typography.php:322
+msgid "Shadows Into Light Two"
+msgstr "Shadows Into Light Two"
+
+#: inc/typography/customize/control-typography.php:321
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: inc/typography/customize/control-typography.php:320
+msgid "Slabo"
+msgstr "Slabo"
+
+#: inc/typography/customize/control-typography.php:319
+msgid "Righteous"
+msgstr "Righteous"
+
+#: inc/typography/customize/control-typography.php:318
+msgid "Russo One"
+msgstr "Russo One"
+
+#: inc/typography/customize/control-typography.php:317
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/typography/customize/control-typography.php:316
+msgid "Rubik"
+msgstr "Rubik"
+
+#: inc/typography/customize/control-typography.php:315
+msgid "Raleway"
+msgstr "Raleway"
+
+#: inc/typography/customize/control-typography.php:314
+msgid "Quattrocento Sans"
+msgstr "Quattrocento Sans"
+
+#: inc/typography/customize/control-typography.php:313
+msgid "Quicksand"
+msgstr "Quicksand"
+
+#: inc/typography/customize/control-typography.php:312
+msgid "Poiret One"
+msgstr "Poiret One"
+
+#: inc/typography/customize/control-typography.php:311
+msgid "Permanent Marker"
+msgstr "Permanent Marker"
+
+#: inc/typography/customize/control-typography.php:310
+msgid "Philosopher"
+msgstr "Philosopher"
+
+#: inc/typography/customize/control-typography.php:309
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: inc/typography/customize/control-typography.php:308
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: inc/typography/customize/control-typography.php:307
+msgid "Playball"
+msgstr "Playball"
+
+#: inc/typography/customize/control-typography.php:306
+msgid "Padauk"
+msgstr "Padauk"
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Pacifico"
+msgstr "Pacifico"
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Patua One"
+msgstr "Patua One"
+
+#: inc/typography/customize/control-typography.php:303
+msgid "Orbitron"
+msgstr "Orbitron"
+
+#: inc/typography/customize/control-typography.php:302
+msgid "Oxygen"
+msgstr "Oxygen"
+
+#: inc/typography/customize/control-typography.php:301
+msgid "Overpass Mono"
+msgstr "Overpass Mono"
+
+#: inc/typography/customize/control-typography.php:300
+msgid "Overpass"
+msgstr "Overpass"
+
+#: inc/typography/customize/control-typography.php:299
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/typography/customize/control-typography.php:298
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: inc/typography/customize/control-typography.php:297
+msgid "Marck Script"
+msgstr "Marck Script"
+
+#: inc/typography/customize/control-typography.php:296
+msgid "Muli"
+msgstr "Muli"
+
+#: inc/typography/customize/control-typography.php:295
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: inc/typography/customize/control-typography.php:294
+msgid "Monda"
+msgstr "Monda"
+
+#: inc/typography/customize/control-typography.php:293
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: inc/typography/customize/control-typography.php:292
+msgid "Lobster Two"
+msgstr "Lobster Two"
+
+#: inc/typography/customize/control-typography.php:291
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: inc/typography/customize/control-typography.php:290
+msgid "Lora"
+msgstr "Lora"
+
+#: inc/typography/customize/control-typography.php:289
+msgid "Lato"
+msgstr "Lato"
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Lobster"
+msgstr "Lobster"
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Kanit"
+msgstr "Kanit"
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Josefin Sans"
+msgstr "Josefin Sans"
+
+#: inc/typography/customize/control-typography.php:285
+msgid "Josefin Slab"
+msgstr "Josefin Slab"
+
+#: inc/typography/customize/control-typography.php:284
+msgid "Julius Sans One"
+msgstr "Julius Sans One"
+
+#: inc/typography/customize/control-typography.php:283
+msgid "IM Fell English SC"
+msgstr "IM Fell English SC"
+
+#: inc/typography/customize/control-typography.php:282
+msgid "Indie Flower"
+msgstr "Indie Flower"
+
+#: inc/typography/customize/control-typography.php:281
+msgid "Inconsolata"
+msgstr "Inconsolata"
+
+#: inc/typography/customize/control-typography.php:280
+msgid "Hammersmith One"
+msgstr "Hammersmith One"
+
+#: inc/typography/customize/control-typography.php:279
+msgid "Handlee"
+msgstr "Handlee"
+
+#: inc/typography/customize/control-typography.php:278
+msgid "Great Vibes"
+msgstr "Great Vibes"
+
+#: inc/typography/customize/control-typography.php:277
+msgid "Gloria Hallelujah"
+msgstr "Gloria Hallelujah"
+
+#: inc/typography/customize/control-typography.php:276
+msgid "Frank Ruhl Libre"
+msgstr "Frank Ruhl Libre"
+
+#: inc/typography/customize/control-typography.php:275
+msgid "Francois One"
+msgstr "Francois One"
+
+#: inc/typography/customize/control-typography.php:274
+msgid "Fjalla One"
+msgstr "Fjalla One"
+
+#: inc/typography/customize/control-typography.php:273
+msgid "Fredoka One"
+msgstr "Fredoka One"
+
+#: inc/typography/customize/control-typography.php:272
+msgid "Economica"
+msgstr "Economica"
+
+#: inc/typography/customize/control-typography.php:271
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: inc/typography/customize/control-typography.php:270
+msgid "Dosis"
+msgstr "Dosis"
+
+#: inc/typography/customize/control-typography.php:269
+msgid "Days One"
+msgstr "Days One"
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr "Chewy"
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr "Cookie"
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr "Cuprum"
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr "Crimson Text"
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr "Cormorant Garamond"
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr "Cherry Swash"
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr "Courgette"
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr "Cardo"
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr "Cabin"
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr "BenchNine"
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr "Bitter"
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr "Bad Script"
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr "Boogaloo"
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr "Bangers"
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr "Averia Serif Libre"
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr "Alfa Slab One"
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr "Arvo"
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr "Arsenal"
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr "Arimo"
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr "Architects Daughter"
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr "Anton"
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr "Acme"
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr "Abril Fatface"
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr "Без шрифта"
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr "Расстояние между буквами"
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/typography/ctypo.php:332
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: inc/typography/ctypo.php:327 inc/typography/ctypo.php:333
+msgid "Select how heading 6 should appear."
+msgstr "Выберите способ отображения заголовка 6."
+
+#: inc/typography/ctypo.php:326
+msgid "Heading 6 Color"
+msgstr "Цвет Заголовка 6"
+
+#: inc/typography/ctypo.php:305
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: inc/typography/ctypo.php:300 inc/typography/ctypo.php:306
+msgid "Select how heading 5 should appear."
+msgstr "Выберите способ отображения заголовка 5."
+
+#: inc/typography/ctypo.php:299
+msgid "Heading 5 Color"
+msgstr "Цвет Заголовка 5"
+
+#: inc/typography/ctypo.php:278
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/typography/ctypo.php:273 inc/typography/ctypo.php:279
+msgid "Select how heading 4 should appear."
+msgstr "Выберите способ отображения заголовка 4."
+
+#: inc/typography/ctypo.php:272
+msgid "Heading 4 Color"
+msgstr "Цвет Заголовка 4"
+
+#: inc/typography/ctypo.php:251
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/typography/ctypo.php:246 inc/typography/ctypo.php:252
+msgid "Select how heading 3 should appear."
+msgstr "Выберите способ отображения заголовка 3."
+
+#: inc/typography/ctypo.php:245
+msgid "Heading 3 Color"
+msgstr "Цвет Заголовка 3"
+
+#: inc/typography/ctypo.php:224
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/typography/ctypo.php:219 inc/typography/ctypo.php:225
+msgid "Select how heading 2 should appear."
+msgstr "Выберите способ отображения заголовка 2."
+
+#: inc/typography/ctypo.php:218
+msgid "Heading 2 Color"
+msgstr "Цвет Заголовка 2"
+
+#: inc/typography/ctypo.php:197
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/typography/ctypo.php:192 inc/typography/ctypo.php:198
+msgid "Select how heading 1 should appear."
+msgstr "Выберите способ отображения заголовка 1."
+
+#: inc/typography/ctypo.php:191
+msgid "Heading 1 Color"
+msgstr "Цвет Заголовка 1"
+
+#: inc/typography/ctypo.php:170
+msgid "Anchor Tag Typography"
+msgstr "Якорь метки типографии"
+
+#: inc/typography/ctypo.php:165 inc/typography/ctypo.php:171
+msgid "Select how you want your a tag to appear."
+msgstr "Выберите способ отображения метки."
+
+#: inc/typography/ctypo.php:164
+msgid "Anchor Tag Color"
+msgstr "Цвет метки якоря"
+
+#: inc/typography/ctypo.php:143
+msgid "Paragraph Typography"
+msgstr "Типография параграфа"
+
+#: inc/typography/ctypo.php:138 inc/typography/ctypo.php:144
+msgid "Select how you want your paragraphs to appear."
+msgstr "Выберите способ отображения параграфов."
+
+#: inc/typography/ctypo.php:137
+msgid "Paragraph Color"
+msgstr "Цвет параграфа"
+
+#: inc/typography/ctypo.php:49
+msgid "It will change the complete theme color in one click."
+msgstr "Изменит цвет темы полностью, за один клик."
+
+#: inc/typography/ctypo.php:41
+msgid "Global Typography"
+msgstr "Общая типография"
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "Типография шапки"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "Типография содержимого"
+
+#: inc/typography/ctypo.php:27
+msgid "Theme Typography"
+msgstr "Типография темы"
+
+#: inc/customizer.php:323
+msgid "UPGRADE PRO"
+msgstr "Обновиться до Pro"
+
+#: inc/customizer.php:322
+msgid "VW FITNESS GYM"
+msgstr "VW FITNESS GYM"
+
+#: inc/customizer.php:242
+msgid "Copyright 2019, ....."
+msgstr "Авторское право 2019, ....."
+
+#: inc/customizer.php:240
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:231
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/customizer.php:222
+msgid "First select static page in homepage setting for front page.Below given edit button is to customize Home Page. Just click on the edit option, add whatever elements you want to include in the homepage, save the changes and you are good to go."
+msgstr "Сначала выберите статическую страницу в настройках домашней страницы для главной страницы. Ниже находиться кнопка редактирования для настройки домашней страницы. Просто нажмите на опцию редактирования, добавьте все элементы, которые вы хотите включить в домашнюю страницу, сохраните изменения, и все готово."
+
+#: inc/customizer.php:209
+msgid "Customize Home Page Settings"
+msgstr "Настройка параметров домашней страницы"
+
+#: inc/customizer.php:203
+msgid "Image Size (70 x 70)"
+msgstr "Размер изображения (70 x 70)"
+
+#: inc/customizer.php:202
+msgid "Select Category to display services"
+msgstr "Выбарите рубрику для показа услуг"
+
+#: inc/customizer.php:178
+msgid "Section Image"
+msgstr "Раздел изображения"
+
+#: inc/customizer.php:165
+msgid "WELCOME TO THE FITNESS"
+msgstr "ДОБРО ПОЖАЛОВАТЬ В FITNESS"
+
+#: inc/customizer.php:163
+msgid "Add Section Sub Title"
+msgstr "Добавьте название подзаголовка"
+
+#: inc/customizer.php:152
+msgid "ABOUT US"
+msgstr "О нас"
+
+#: inc/customizer.php:150
+msgid "Add Section Title"
+msgstr "Добавьте название раздела"
+
+#: inc/customizer.php:140
+msgid "About us Settings"
+msgstr "Настройки Про нас"
+
+#: inc/customizer.php:132
+msgid "Slider image size (1500 x 650)"
+msgstr "Размер изображения слайдера (1500 x 650)"
+
+#: inc/customizer.php:131
+msgid "Select Slider Page"
+msgstr "Выберите страницу слайдера"
+
+#: inc/customizer.php:120
+msgid "Show / Hide slider"
+msgstr "Показать / Скрыть слайдер"
+
+#: inc/customizer.php:110
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:104
+msgid "Show / Hide Search"
+msgstr "Показать / скрыть поиск"
+
+#: inc/customizer.php:92
+msgid "example@123.com"
+msgstr "example@123.com"
+
+#: inc/customizer.php:90
+msgid "Add Email Address"
+msgstr "Добавьте адресс почты"
+
+#: inc/customizer.php:79
+msgid "+789 456 1230"
+msgstr "+789 456 1230"
+
+#: inc/customizer.php:77
+msgid "Add Phone Number"
+msgstr "Добавьте номер телефона"
+
+#: inc/customizer.php:68
+msgid "Topbar Settings"
+msgstr "Настройки верхней панели"
+
+#: inc/customizer.php:57
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "Здесь вы можете изменить макет боковой панели для страниц."
+
+#: inc/customizer.php:56
+msgid "Page Sidebar Layout"
+msgstr "Расположение боковой панели страницы"
+
+#: inc/customizer.php:46
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer.php:45
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/customizer.php:44
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:43 inc/customizer.php:51 inc/customizer.php:62
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:41 inc/customizer.php:60
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer.php:38
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "Здесь вы можете изменить макет боковой панели для записей."
+
+#: inc/customizer.php:37
+msgid "Post Sidebar Layout"
+msgstr "Макет боковой панели страницы"
+
+#: inc/customizer.php:32 inc/customizer.php:42 inc/customizer.php:61
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer.php:27
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer.php:22
+msgid "VW Settings"
+msgstr "Настройки VW"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Похоже, вы пошли не туда&hellip"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#. translators: %s: search term
+#: search.php:19 search.php:53 search.php:86 search.php:119 search.php:154
+#: search.php:189 search.php:225
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: no-results.php:17 404.php:14
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: no-results.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская домашняя страница"
+
+#: functions.php:299
+msgid "GYM WordPress Theme"
+msgstr "WordPress тема GYM"
+
+#: functions.php:123
+msgid "Appears on Header, Sidebar and Footer."
+msgstr "Появиться в Шапке, Боковой панели и Подвале."
+
+#: functions.php:122
+msgid "Social Media"
+msgstr "Социальные медиа"
+
+#: functions.php:113
+msgid "Appears on footer 4"
+msgstr "Появится в футере 4"
+
+#: functions.php:112
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:103
+msgid "Appears on footer 3"
+msgstr "Появится в подвале 3"
+
+#: functions.php:102
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:93
+msgid "Appears on footer 2"
+msgstr "Появится в подвале 2"
+
+#: functions.php:92
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:83
+msgid "Appears on footer 1"
+msgstr "Появится в подвале 1"
+
+#: functions.php:82
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:72
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:63 functions.php:73
+msgid "Appears on page sidebar"
+msgstr "Появится на боковой панели страницы"
+
+#: functions.php:62
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:53
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:52
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Поиск"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему для покупки."
+
+#: template-parts/header/navigation.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: template-parts/image-layout.php:33 inc/customizer.php:226
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/content.php:28 template-parts/grid-layout.php:26
+#: page-template/custom-home-page.php:40 404.php:16
+msgid "READ MORE"
+msgstr "Подробнее"
+
+#: template-parts/single-post-layout.php:42
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/single-post-layout.php:41
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:39
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/single-post-layout.php:38
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:33
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/single-post-layout.php:15
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/single-post-layout.php:15
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/single-post-layout.php:15
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 archive.php:263 single.php:40 single.php:73
+#: single.php:105 single.php:137 single.php:171 single.php:206 single.php:238
+#: search.php:41 search.php:75 search.php:108 search.php:141 search.php:176
+#: search.php:213 search.php:247 index.php:45 index.php:78 index.php:110
+#: index.php:142 index.php:176 index.php:211 index.php:243 image.php:40
+#: image.php:73 image.php:105 image.php:137 image.php:171 image.php:206
+#: image.php:239
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 single.php:39 single.php:72
+#: single.php:104 single.php:136 single.php:170 single.php:205 single.php:237
+#: search.php:40 search.php:74 search.php:107 search.php:140 search.php:175
+#: search.php:212 search.php:246 index.php:44 index.php:77 index.php:109
+#: index.php:141 index.php:175 index.php:210 index.php:242 image.php:39
+#: image.php:72 image.php:104 image.php:136 image.php:170 image.php:205
+#: image.php:238
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 single.php:38 single.php:71
+#: single.php:103 single.php:135 single.php:169 single.php:204 single.php:236
+#: search.php:39 search.php:73 search.php:106 search.php:139 search.php:174
+#: search.php:211 search.php:245 index.php:43 index.php:76 index.php:108
+#: index.php:140 index.php:174 index.php:209 index.php:241 image.php:38
+#: image.php:71 image.php:103 image.php:135 image.php:169 image.php:204
+#: image.php:237
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#. Author URI of the theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the theme
+msgid "https://www.vwthemes.com/themes/free-gym-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-gym-wordpress-theme/"
