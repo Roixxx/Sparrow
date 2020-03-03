@@ -20,6 +20,8 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', 'C:\Users\vosro\Desktop\OSPanel\domains\sparrow.loc\wp-content\plugins\wp-super-cache/' );
 define( 'DB_NAME', 'wp_dev' );
 
 /** Имя пользователя MySQL */
