@@ -10,15 +10,15 @@
 /*	Navigation - Double Tap to Go
 ------------------------------------------------------*/
 
-   $( '#nav li:has(ul)' ).doubleTapToGo();
+   jQuery( '#nav li:has(ul)' ).doubleTapToGo();
 
 /*----------------------------------------------------*/
 /*	Back To Top Button
 /*----------------------------------------------------*/
-		var pxShow = 300; //height on which the button will show
-		var fadeInTime = 400; //how slow/fast you want the button to show
-		var fadeOutTime = 400; //how slow/fast you want the button to hide
-		var scrollSpeed = 300; //how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
+		let pxShow = 300; //height on which the button will show
+		let fadeInTime = 400; //how slow/fast you want the button to show
+		let fadeOutTime = 400; //how slow/fast you want the button to hide
+		let scrollSpeed = 300; //how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
 
         // Show or hide the sticky footer button
 	    jQuery(window).scroll(function() {
@@ -41,7 +41,7 @@
 /*----------------------------------------------------*/
 /*	Flexslider
 /*----------------------------------------------------*/
-   $('#intro-slider').flexslider({
+   jQuery('#intro-slider').flexslider({
       namespace: "flex-",
       controlsContainer: "",
       animation: 'fade',
@@ -57,16 +57,16 @@
 /*	contact form
 ------------------------------------------------------*/
 
-   $('form#contactForm button.submit').click(function() {
+   jQuery('form#contactForm button.submit').click(function() {
 
       $('#image-loader').fadeIn();
 
-      var contactName = $('#contactForm #contactName').val();
-      var contactEmail = $('#contactForm #contactEmail').val();
-      var contactSubject = $('#contactForm #contactSubject').val();
-      var contactMessage = $('#contactForm #contactMessage').val();
+      let contactName = $('#contactForm #contactName').val();
+      let contactEmail = $('#contactForm #contactEmail').val();
+      let contactSubject = $('#contactForm #contactSubject').val();
+      let contactMessage = $('#contactForm #contactMessage').val();
 
-      var data = 'contactName=' + contactName + '&contactEmail=' + contactEmail +
+      let data = 'contactName=' + contactName + '&contactEmail=' + contactEmail +
                '&contactSubject=' + contactSubject + '&contactMessage=' + contactMessage;
 
       $.ajax({

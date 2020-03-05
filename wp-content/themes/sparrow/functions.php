@@ -18,9 +18,13 @@ function style_theme() {
 }
 
 function scripts_theme() {
-    wp_deregister_script( 'jquery' );
-    wp_register_script( 'jquery', '//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js');
-    wp_enqueue_script('jquery');
+
+	wp_deregister_script('jquery-core');
+	wp_deregister_script('jquery');
+	wp_register_script( 'jquery-core', 'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js', false, null, true );
+	wp_register_script( 'jquery', false, array('jquery-core'), null, true );
+	wp_enqueue_script( 'jquery' );
+	
     wp_enqueue_script('flexslider', get_template_directory_uri() . '/assets/js/jquery.flexslider.js', ['jquery'], null, true);
     wp_enqueue_script('doubletaptogo', get_template_directory_uri() . '/assets/js/doubletaptogo.js', ['jquery'], null, true);
     wp_enqueue_script('init', get_template_directory_uri() . '/assets/js/init.js', ['jquery'], null, true);
